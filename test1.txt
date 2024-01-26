@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is E0B6-0CFE
+
+ Directory of C:\Users\AbhinandanKumar\Desktop\My project
+
+27-01-2024  00:21    <DIR>          .
+26-01-2024  02:33    <DIR>          ..
+26-01-2024  02:41    <DIR>          New folder
+27-01-2024  00:21                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  354,848,391,168 bytes free
